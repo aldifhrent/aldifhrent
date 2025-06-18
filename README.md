@@ -7,7 +7,9 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm Aldi Ahmad Fahrizi Ilmawan</h1>
-<br/>
+
+---
+
 ### 🌐 Connect with me
 
 <p align="center">
@@ -23,8 +25,7 @@
 
 ### 🛠️ Skills
 
-### 🧪 Automation & Testing Tools
-
+#### 🧪 Automation & Testing Tools
 <p align="center">
   <img src="https://cdn.simpleicons.org/jest/C21325" height="44" alt="Jest" />
   <img src="https://cdn.simpleicons.org/cypress/17202c" height="44" alt="Cypress" />
@@ -32,10 +33,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" />
 </p>
 
----
-
-### 💻 Programming & Frameworks
-
+#### 💻 Programming & Frameworks
 <p align="center">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" />
@@ -43,10 +41,7 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" />
 </p>
 
----
-
-### 🔧 Other Tools & Collaboration
-
+#### 🔧 Other Tools & Collaboration
 <p align="center">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="44" alt="Jira" />
   <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub" />
@@ -79,9 +74,8 @@
 
 ### 🧪 QA / Dev Projects
 
-
+> *(Coming Soon: Add your portfolio or GitHub repositories here)*
 
 ---
-
 
 > Feel free to fork, clone, and reach out if you’d like to collaborate!
