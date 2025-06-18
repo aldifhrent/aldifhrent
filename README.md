@@ -4,11 +4,6 @@
 
 <h1 align="center">👋 Hi, I'm Aldi Ahmad Fahrizi Ilmawan</h1>
 
-<p align="center">
-  Finding bugs before they find you
-  <br />
-</p>
-
 ---
 
 ### 🌐 Connect with me
@@ -26,14 +21,33 @@
 
 ### 🛠️ Skills
 
+### 🧪 Automation & Testing Tools
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/jest/C21325" height="44" alt="Jest" />
+  <img src="https://cdn.simpleicons.org/cypress/17202c" height="44" alt="Cypress" />
+  <img src="https://cdn.simpleicons.org/selenium/43b02a" height="44" alt="Selenium" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" />
+</p>
+
+---
+
+### 💻 Programming & Frameworks
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="44" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" height="44" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/prisma/2E5798" height="44" alt="Prisma" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" height="44" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="44" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/mongodb/4DB33D" height="44" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/postgresql/336791" height="44" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" />
+</p>
+
+---
+
+### 🔧 Other Tools & Collaboration
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/jira/0052CC" height="44" alt="Jira" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub" />
 </p>
 
 ---
