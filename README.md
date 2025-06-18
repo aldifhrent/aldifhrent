@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102520149?v=4" alt="profile picture"/>
+  <img 
+    src="https://avatars.githubusercontent.com/u/102520149?v=4" 
+    alt="profile picture" 
+    width="120" 
+    height="120" 
+    style="border-radius: 50%; object-fit: cover;" 
+  />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldifhrent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
