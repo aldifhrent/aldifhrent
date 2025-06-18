@@ -2,12 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=aldifhrent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Aldi</h1>
+<h1 align="center">👋 Hi, I'm Aldi Ahmad Fahrizi Ilmawan</h1>
 
 <p align="center">
-  A passionate Fullstack Developer & QA Engineer based in Indonesia 🇮🇩  
+  Finding bugs before they find you
   <br />
-  Currently focused on mastering QA Automation & building scalable web apps  
 </p>
 
 ---
