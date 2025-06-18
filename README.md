@@ -27,3 +27,5 @@
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=aldifhrent&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&redirect=true)
