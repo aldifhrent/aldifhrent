@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=aldifhrent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Aldi Ahmad Fahrizi Ilmawan</h1>
+<h1 align="center">👋 Hi, I'm Aldi Ahmad F I</h1>
 
 ---
 
