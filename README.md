@@ -2,17 +2,14 @@
   <img src="https://avatars.githubusercontent.com/u/102520149?v=4&s=120" alt="profile picture" width="120" height="120" />
 </p>
 
+<h1 align="center">👋 Hi, I'm Aldi Ahmad F I</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldifhrent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Aldi Ahmad F I</h1>
-
----
-
 ### 🌐 Connect with me
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/aldi.fhr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
