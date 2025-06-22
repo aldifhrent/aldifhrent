@@ -66,12 +66,16 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false" alt="Spotify Now Playing" />
   </a>
 </p>
+</br>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=pc8dduhx94tlvj6ai7wnh8b6l"/>
+</p>
 
 ---
 
 ### 🧪 QA / Dev Projects
 
-> *(Coming Soon: Add your portfolio or GitHub repositories here)*
+> *Coming Soon*
 
 ---
 
