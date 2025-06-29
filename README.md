@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/102520149?v=4&s=120" alt="profile picture" width="120" height="120" />
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/aldifhrent&s=300&fit=cover&mask=circle&maxage=7d" alt="profile picture" width="120" height="120" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Aldi Ahmad Fahrizi Ilmawan</h1>
+<h1 align="center">Aldi Ahmad Fahrizi Ilmawan</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aldifhrent&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -22,13 +22,13 @@
 
 ### 🛠️ Skills
 
-#### 🧪 Automation & Testing Tools
-<p align="center">
+<!-- #### 🧪 Automation & Testing Tools
+ <p align="center">
   <img src="https://cdn.simpleicons.org/jest/C21325" height="44" alt="Jest" />
   <img src="https://cdn.simpleicons.org/cypress/17202c" height="44" alt="Cypress" />
   <img src="https://cdn.simpleicons.org/selenium/43b02a" height="44" alt="Selenium" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="44" alt="Postman" />
-</p>
+</p> -->
 
 #### 💻 Programming & Frameworks
 <p align="center">
@@ -38,11 +38,11 @@
   <img src="https://cdn.simpleicons.org/python/3776AB" height="44" alt="Python" />
 </p>
 
-#### 🔧 Other Tools & Collaboration
+<!--  #### 🔧 Other Tools & Collaboration
 <p align="center">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="44" alt="Jira" />
   <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub" />
-</p>
+</p> -->
 
 ---
 
