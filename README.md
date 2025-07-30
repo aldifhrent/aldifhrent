@@ -9,7 +9,7 @@
 
 ### 🌐 Connect with me
 
-<p align="left">
+<p align="left" c>
   <a href="https://www.instagram.com/aldi.fhr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" />
   </a>
@@ -40,6 +40,7 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="44" alt="Jira" />
   <img src="https://cdn.simpleicons.org/github/181717" height="44" alt="GitHub" />
+  <img src="https://simpleicons.org/icons/jenkins.svg" height="44" alt="GitHub" />
 </p> 
 
 ---
@@ -57,7 +58,7 @@
 
 ---
 
-### 🎧 Spotify Now Playing
+### 🎧 Spotify
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=pc8dduhx94tlvj6ai7wnh8b6l&redirect=true">
